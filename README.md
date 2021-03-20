@@ -1,6 +1,6 @@
 # consultorio-dentista-reactjs
  
-**É uma aplicação Web que exibe informações de um Consultório Odontológico**
+**É uma aplicação Web que exibe informações sobre um Consultório Odontológico**
 
 ![](/Screenshot/home.png)
 ![](/Screenshot/home2.png)

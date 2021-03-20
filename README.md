@@ -2,9 +2,14 @@
  
 **É uma aplicação Web que exibe informações de um Consultório Odontológico**
 
-![](/Screenshot/)
-![](/Screenshot/)
-![](/Screenshot/)
+![](/Screenshot/home.png)
+![](/Screenshot/home2.png)
+![](/Screenshot/home3.png)
+![](/Screenshot/contato.png)
+![](/Screenshot/contato2.png)
+![](/Screenshot/missão.png)
+![](/Screenshot/convênios.png)
+![](/Screenshot/agenda.png)
 
 # Esse projeto foi postado no Netlify
 

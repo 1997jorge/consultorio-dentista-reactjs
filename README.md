@@ -15,6 +15,25 @@
 
 **Link:** https://consultorio-dentista-jorge.netlify.app/
 
+# IDE
+
+**Visual Studio Code**
+
+# Pacotes utilizados nesse projeto
+
+```
+{
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "web-vitals": "^1.0.1"
+}
+```    
+
 # O que é React.js?
 
 **React.js é, portanto, uma biblioteca de JavaScript, open source, utilizada para construir user interfaces, nomeadas para aplicações de página única.** 
